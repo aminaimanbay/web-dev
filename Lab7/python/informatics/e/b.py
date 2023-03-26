@@ -8,3 +8,4 @@ def power(a,b):
     print(p)
 a,b = input().split()
 power(float(a),int(b))
+
